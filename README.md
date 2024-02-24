@@ -1,6 +1,6 @@
 # Number-Sorter
 This is a project was used to practice various algorithms
-Github Pages website for this project: 
+Github Pages website for this project: https://oia20.github.io/Number-Sorter/
 
 Technologies used:
 - HTML
